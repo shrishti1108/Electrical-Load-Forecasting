@@ -26,6 +26,7 @@ India’s growing electricity demands make forecasting regional load crucial for
 ## 📁 Project Structure
 
 Electrical-Load-Forecasting/
+
 │
 ├── Dataset/
 │ ├── hourlyLoadDataIndia.xlsx # Hourly load per region
@@ -35,6 +36,8 @@ Electrical-Load-Forecasting/
 ├── streamlit_app.py # Streamlit UI
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+
+
 
 ---
 
@@ -61,6 +64,7 @@ Prophet	Time series model for trend/seasonality forecasting
 Random Forest	Baseline supervised ML model for comparison
 
 🧩 Green AI Approach
+
 ✅ Low-compute models (no deep learning)
 
 ✅ Region-specific modeling to avoid overfitting
