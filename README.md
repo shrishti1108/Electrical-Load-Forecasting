@@ -25,18 +25,7 @@ India’s growing electricity demands make forecasting regional load crucial for
 
 ## 📁 Project Structure
 
-Electrical-Load-Forecasting/
-
-│
-├── Dataset/
-│ ├── hourlyLoadDataIndia.xlsx # Hourly load per region
-│ └── monthly_temp.xlsx # Monthly avg. temperature
-│
-├── Load Forecast.ipynb # Notebook with model training & results
-├── streamlit_app.py # Streamlit UI
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
+<pre> ```text Electrical-Load-Forecasting/ │ ├── Dataset/ │ ├── hourlyLoadDataIndia.xlsx # Hourly load per region │ └── monthly_temp.xlsx # Monthly avg. temperature │ ├── Load Forecast.ipynb # Notebook with model training & results ├── streamlit_app.py # Streamlit UI ├── requirements.txt # Python dependencies └── README.md # Project documentation ``` </pre>
 
 
 ---
